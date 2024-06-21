@@ -22,3 +22,5 @@ then the needed libraries are:
 - torch
 
 Make a ipynb notebook and choose the kernel tax the virtual environment so we can use the downloaded libraries
+
+As we going to use a tax book as knowledge base, we convert the pdf to txt file.
